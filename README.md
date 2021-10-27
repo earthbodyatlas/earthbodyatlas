@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @earthbodyatlas
-- 👀 I’m interested in healthcare and computer science
-- 🌱 I’m currently learning R, Python and Ophthalmology
+- 👀 I’m interested in healthcare, eye care breakthroughs, and computer science
+- 🌱 I’m currently learning R, Python, and Ophthalmology
 - 📫 How to reach me earthbodyatlas@gmail.com
 
 <!---
